@@ -1,0 +1,34 @@
+# Ignorar arquivos e diretórios gerados automaticamente
+__pycache__/
+*.pyc
+
+# Ignorar diretório de ambiente virtual (se você usar um)
+venv/
+
+# Ignorar arquivos de configuração
+*.env
+*.ini
+*.conf
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de saída ou compilação
+*.out
+*.exe
+
+# Ignorar arquivos de dados grandes
+data_large/
+
+# Ignorar diretórios de dependências (se não estiver usando um gerenciador de pacotes)
+lib/
+lib64/
+bin/
+
+# Ignorar arquivos com extensão .bat e .cfg
+*.bat
+*.cfg
+*.ps1
+
+# Ignorar o arquivo no caminho unit-gpt/Scripts/activate
+unit-gpt/Scripts/activate
