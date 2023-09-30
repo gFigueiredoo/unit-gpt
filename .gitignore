@@ -30,5 +30,6 @@ bin/
 *.cfg
 *.ps1
 
-# Ignorar o arquivo no caminho unit-gpt/Scripts/activate
+# Ignorar o arquivo no caminho
 unit-gpt/Scripts/activate
+files-generated
